@@ -21,7 +21,7 @@ h2{
 
 }
 .subtitle{
-  font-size: 1rem;
+  font-size: 80%;
   color: #66BFBF;
 }
 
@@ -84,17 +84,19 @@ a:hover{
 }
 
 .middle-container{
-  margin: 100px 0;
+  margin: 100px auto;
+  width: 70%;
+
 }
 .bottom-cloud{
   position:absolute;
-  left: 400px;
-  bottom: 300px;
+  left: 40%;
+  bottom: 30%;
 }
 .top-cloud{
   position:absolute;
-  right:  450px;
-  top: 100px;
+  right:  45%;
+  top: 10%;
 }
 
 .propic{
